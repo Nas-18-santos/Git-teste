@@ -1,1 +1,8 @@
-Primeiro teste 1
+SABER SE ESTÁ VINCULADO COM REPOSITÓRIO ONLINE OU LOCAL:
+-git remote -v
+
+ADICIONAR REPOSITÓRIO ONLINE: 
+- git remote add origin ( Link do repositório )
+
+ALTERAÇÃO DE REPOSITÓRIO : URL
+-git remote set-url origin ( Link do repositório)
