@@ -6,3 +6,6 @@ ADICIONAR REPOSITÓRIO ONLINE:
 
 ALTERAÇÃO DE REPOSITÓRIO : URL
 -git remote set-url origin ( Link do repositório)
+
+ENVIAR PARA O GIT HUB:
+-git push
