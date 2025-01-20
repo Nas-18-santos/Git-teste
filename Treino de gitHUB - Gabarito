@@ -13,13 +13,25 @@ ENVIAR PARA O GIT HUB:
 TRAZER INFORMAÇÃO DO GITHUB
 - git pull
 
+CRIANDO BRANCH LOCAL
+- git branch (nome da branch)
+- git branch      < ver todas as branch >
+- git checkout .  < entrar na branch >
+
+
+
+
+
+
 FORK e PULL REQUEST : Editar e copiar projeto, comentar...
 
 ISSUES : Comentar problemas 
 
 ARQUIVO README: Documentação/Apresentação do projeto - App: Dillinger
 
-SSH: Autendicação - segurança
+35. CHAVE  SSH: Autendicação - segurança REVER AULA
+
+
 
 
 
