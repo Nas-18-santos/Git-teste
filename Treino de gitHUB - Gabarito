@@ -1,14 +1,17 @@
-SABER SE EST¡ VINCULADO COM REPOSIT”RIO ONLINE OU LOCAL:
+SABER SE EST√Å VINCULADO COM REPOSIT√ìRIO ONLINE OU LOCAL:
 -git remote -v
 
-ADICIONAR REPOSIT”RIO ONLINE: 
-- git remote add origin ( Link do repositÛrio )
+ADICIONAR REPOSIT√ìRIO ONLINE: 
+- git remote add origin ( Link do reposit√≥rio )
 
-ALTERA«√O DE REPOSIT”RIO : URL
--git remote set-url origin ( Link do repositÛrio)
+ALTERA√á√ÉO DE REPOSIT√ìRIO : URL
+-git remote set-url origin ( Link do reposit√≥rio)
 
 ENVIAR PARA O GIT HUB:
 -git push
+
+TRAZER INFORMA√á√ÉO DO GITHUB
+- git pull
 
 
 
