@@ -17,6 +17,9 @@ CRIANDO BRANCH LOCAL
 - git branch (nome da branch)
 - git branch      < ver todas as branch >
 - git checkout .  < entrar na branch >
+- git push --set-upstream origin (nome da branch)  < enviar branch para o renoto >
+
+
 
 
 
