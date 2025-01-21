@@ -19,6 +19,11 @@ CRIANDO BRANCH LOCAL
 - git checkout .  < entrar na branch >
 - git push --set-upstream origin (nome da branch)  < enviar branch para o renoto >
 - git branch -D (nome da branch) < excluir branch >
+- git push --delete origin (nome da branch) < excluir branch remota)
+- git log (nome da branch) --oneline
+- git merge (nome da branch)             < trazer mudanças >
+- git branch --no-merged                 < branch não mescladas >
+- git git branch --merged
 
 
 
