@@ -23,10 +23,33 @@ CRIANDO BRANCH LOCAL
 - git log (nome da branch) --oneline
 - git merge (nome da branch)             < trazer mudanças >
 - git branch --no-merged                 < branch não mescladas >
-- git git branch --merged
+- git git branch --merged                < branch mescladas >
 
 
+TAG:
+- git tag (nome da tag)                  < criar tag > 
+- git tag -a -m " xxx " (nome da tag)    < criar tag completo >
+- git show (nome da tag)                 < histórico da tag > 
+- git tag                                < ver todas as tags >
+- git tag (nome da tag) (Numero do commit) < criar tag no commit antigo > 
+- git tag -a -m " xxx " (nome da tag) ( numero do commiit) < criar tag no commit antigo >
+- git push origin (nome da tag)          < enviar tag para o remoto > 
+- git push --tags                        < enviar tag para o remoto >  
+- git checkout (nome da tag)             < entrar na tag >
+- git switch -                           < voltar >
+- git diff (nome da tag) (nome da tag)   < comparar tag > 
+- git tag -d (nome da tag)               < excluir tag local >
+- git push --delete origin (nome da tag ) < excluiir tag remota > 
 
+STASH:  
+- git stash                            < salvar na memoria > 
+- git stash list 
+- git stash apply                      < aplicar mudanças salvas > 
+- git stash apply (nome da stash list) 
+- git stash pop                        < aplicar e remover stash >
+- git stash pop (nome da stash list)
+- git stash drop                       < remover stash >
+- git stash drop (nome da stash list) 
 
 
 
