@@ -51,6 +51,22 @@ STASH:
 - git stash drop                       < remover stash >
 - git stash drop (nome da stash list) 
 
+REVERTENDO UM COMMIT:
+- git revert ( numero do commit )
+- git revert  ( numero do commit ) --no-edit
+
+DESFAZeR/APAGAR UM COMMIT: 
+- git reset --hard HEAD~1
+
+FORÇANDO ENVIO DE MUDANÇAS:
+- git push --force
+- git push --force-whith-lease         < verificar antes de forçar o envio >
+
+REBASE:
+- git rebase (nome da branch)          < mesclar branch >
+
+
+
 
 
 
