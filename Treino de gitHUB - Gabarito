@@ -64,6 +64,10 @@ FORÇANDO ENVIO DE MUDANÇAS:
 
 REBASE:
 - git rebase (nome da branch)          < mesclar branch >
+- git rabase --interactive HEAD-(Numero de comitts)     < Juntar commits >
+
+RECRIANDO BRANCH BASEADO NO SERVIDOR:
+- git fetch origin (nome da branch)  
 
 
 
