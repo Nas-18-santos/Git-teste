@@ -91,9 +91,17 @@ ARQUIVO README: Documentação/Apresentação do projeto - App: Dillinger
 
 35. CHAVE  SSH: Autendicação - segurança REVER AULA
 
+git config --global alias      < abreviar comandos >
 
+git (branch ou log --oneline) | grep (palavra buscada)< filtrar informações >
 
-
+Plataformas:
+- Sourcetree aula 71
+- GitKraken aula 72 
+- Git GUI aula 73
+- Visual Studio Code 74
+- Visual Studio aula 75
+- Android Studio aula 76 
 
 
 
