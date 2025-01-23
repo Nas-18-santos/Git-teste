@@ -71,7 +71,11 @@ RECRIANDO BRANCH BASEADO NO SERVIDOR:
 
 - git cherry-pick  (Número de commit)   < pegar um commit de outra branch >
 
-
+BUSCA BINARIA:
+- git bisect start                       < achar um commit especifico >
+- git bisect good (numero do commit) 
+- git bisect bag (numero do commit)
+- git bisect reset 
 
 
 
