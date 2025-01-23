@@ -67,7 +67,11 @@ REBASE:
 - git rabase --interactive HEAD-(Numero de comitts)     < Juntar commits >
 
 RECRIANDO BRANCH BASEADO NO SERVIDOR:
-- git fetch origin (nome da branch)  
+- git fetch origin (nome da branch) 
+
+- git cherry-pick  (Número de commit)   < pegar um commit de outra branch >
+
+
 
 
 
